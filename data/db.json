@@ -1,0 +1,7 @@
+{
+  "jobs":[
+    {"title":"Backend Developer","id":1,"details":"Build API"},
+    {"title":"Frontend Developer","id":2,"details":"Consume API"},
+    {"title":"UI/UX Developer","id":3,"details":"Design Presentations"}
+  ]
+}
