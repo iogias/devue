@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create my home page",
+      "details": "Lorem ipsum set amit dolor ",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Create search complete bar",
+      "details": "Lorem ipsum set",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "title": "Create navbar",
+      "details": "Lorem",
+      "complete": true
+    },
+    {
+      "title": "Create object",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, voluptas?",
+      "complete": true,
+      "id": 4
+    }
+  ]
+}
